@@ -40,7 +40,7 @@ neutral,I just want to Sleep.
 
 ![image](https://user-images.githubusercontent.com/80041689/178790330-1800f697-b2f5-460f-b111-836b1d93854a.png)
 
-# Intrestings results:
+# Interesting results:
 
 ![image](https://user-images.githubusercontent.com/80041689/178790108-753b9c8c-465f-4bdb-8e36-9b4a21953856.png)
 
